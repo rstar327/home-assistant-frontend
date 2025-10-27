@@ -761,6 +761,9 @@
         "no_match": "No matching languages found",
         "no_languages": "No languages available"
       },
+      "icon-picker": {
+        "no_match": "No matching icons found"
+      },
       "tts-picker": {
         "tts": "Text-to-speech",
         "none": "None"
