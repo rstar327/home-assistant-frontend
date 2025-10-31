@@ -8346,6 +8346,7 @@
               "hide_energy": "Hide energy"
             },
             "iframe": {
+              "hide_background": "Hide background",
               "url": "URL"
             },
             "areas": {
